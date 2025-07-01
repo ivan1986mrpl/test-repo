@@ -16,11 +16,4 @@ git clone https://github.com/ivan1986mrpl/test-repo.git = клонировани
 
 
 
-
-
-
-
-
-fix1 ===1
-
 */
