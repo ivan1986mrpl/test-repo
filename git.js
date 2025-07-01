@@ -11,6 +11,8 @@ git commit -m'init: add readme file' = добавляет контрольную
 
 git push -u origin main = (origin = ссылка на ваш github) (main = название ветки, в которую пушим)
 
+git clone https://github.com/ivan1986mrpl/test-repo.git = клонирование репозитория в новую папку (клонирует не все ветки)
+
 
 
 
